@@ -1,9 +1,10 @@
 ### Hi there 👋
+I'm Shaik Irfan. A 3rd year undergraduate in the stream of Computer Science and Engineering! Interested in Full Stack Development.
 
 <!--
-**newBieIrfan/newBieIrfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**newBieIrfan/newBieIrfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on projects in MERN stack
 - 🌱 I’m currently learning Full Stack Development
