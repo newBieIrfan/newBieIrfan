@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on Web Dev projects
 - 🤔 I’m looking for help with open source contribution
-- 💬 Ask me about Node.js and Taylor Swift :P
+- 💬 Ask me about Node.js
 - 📫 How to reach me: mail me at skirfan3400309@gmail.com or tweet me at @skirfanjulyborn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Complex things start with being simple :)
