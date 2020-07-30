@@ -13,8 +13,6 @@
 
 * I'm looking for help with open source contribution🤔
 
-💬 Ask me about Node.js
-
 😄 Pronouns: he/him
 
 ⚡ Fun fact: Complex things start with being simple :)
