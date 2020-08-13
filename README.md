@@ -4,7 +4,7 @@
 
 ### About me
 
-**I'm an 3rd year undergraduate in the stream of Computer Science and Engineering. Interested in Full Stack Development.**
+**I'm an 4th year undergraduate in the stream of Computer Science and Engineering. Interested in Full Stack Development.**
 
 * I'm currently working on projects in MERN stack 👀️
 * I'm currently learning Full Stack Development 🎉️
