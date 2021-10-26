@@ -4,11 +4,12 @@
 
 ### About me
 
-**I'm an 4th year undergraduate in the stream of Computer Science and Engineering. Interested in Full Stack Development.**
+**I'm an undergraduate in the stream of Computer Science and Engineering. Interested in Full Stack Development.**
 
 * Enthusiast. Like to try new things every now and then 😁
 * Worked on projects in MERN stack 👀️
-* I'm currently learning .NET stack along with Angular 🎉️
+* Done a few projects in .NET stack along with Angular 🎉️
+* Currently learning svelte
 
 **Also,**
 
