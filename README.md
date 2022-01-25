@@ -9,7 +9,7 @@
 * Enthusiast. Like to try new things every now and then 😁
 * Worked on projects in MERN stack 👀️
 * Done a few projects in .NET stack along with Angular 🎉️
-* Currently learning svelte
+* Currently a dot net developer
 
 **Also,**
 
